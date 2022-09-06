@@ -9,3 +9,6 @@ From the Hebrew word [מַדָּע](https://biblehub.com/hebrew/4093.htm) (madda
 
 ## Description
 A system that assimilates data and the relationships between different pieces of data.
+
+## Documentation
+Check out the [wiki](https://github.com/Pertempto/mada/wiki) for documentation.
